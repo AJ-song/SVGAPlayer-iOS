@@ -41,6 +41,7 @@ CF_EXTERN_C_BEGIN
 @class SVGAProtoTransform;
 
 NS_ASSUME_NONNULL_BEGIN
+#import <libkern/OSAtomic.h>
 
 #pragma mark - Enum SVGAProtoShapeEntity_ShapeType
 
